@@ -1,7 +1,7 @@
 import { DownOutlined, SmileOutlined } from '@ant-design/icons';
 import { Dropdown, Space } from 'antd';
 
-const items = [
+const Items = [
   {
     key: '1',
     label: (
@@ -28,4 +28,4 @@ const items = [
   },
 ];
 
-export default items
+export default Items
